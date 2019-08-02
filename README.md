@@ -12,6 +12,8 @@ So ```OrientalHorizon``` as long as ```Clever_Jimmy```, created this Github proj
 
 -------------------------
 
-In this project, there are temporarily just texts, introducing the aim and rules of this game. Later, we will put on a problem which requires imitation of this game using C++, created by ```Clever_Jimmy```. Once the contest held by ```A hit of 999``` , a team led by ```Clever_Jimmy OrientalHorizon etc.```is over, we will also put on the source code of this imitation.
+In this project, there are temporarily just texts, introducing the aim and rules of this game. Later, we will put on a problem which requires imitation of this game using C++, created by ```Clever_Jimmy```. Once the contest held by ```A hit of 999``` is over, we will also put on the source code of this imitation.
+
+**\* ```A hit of 999``` is a team led by ```Clever_Jimmy``` ```OrientalHorizon``` etc.**
 
 We hope you can enjoy this fantastic game, and spread it to your friends ~~as long as parents~~!!!
